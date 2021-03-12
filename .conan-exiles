@@ -1,0 +1,10 @@
+*
+!ConanSandbox/Mods/modlist.txt
+!ConanSandbox/Saved/Game.db
+!ConanSandbox/Saved/whitelist.txt
+!ConanSandbox/Saved/Logs/ConanSandbox.log
+!ConanSandbox/Saved/Logs/RconCommandLog.log
+!ConanSandbox/Saved/Logs/ServerCommandLog.log
+!ConanSandbox/Saved/Config/WindowsServer/Engine.ini
+!ConanSandbox/Saved/Config/WindowsServer/Game.ini
+!ConanSandbox/Saved/Config/WindowsServer/ServerSettings.ini
